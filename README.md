@@ -73,7 +73,7 @@
 
 <div align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=monojitbgit&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF4D8B&ring=FF4D8B&fire=FF4D8B&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FF4D8B&sideLabels=FFFFFF&dates=AAAAAA"
+    src="https://github-readme-stats.vercel.app/api?username=monojitbgit&show_icons=true&hide_border=true&count_private=true&title_color=FF4D8B&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&include_all_commits=true"
     alt="GitHub Streak"
     height="200"
     style="flex: 1; min-width: 320px;"
