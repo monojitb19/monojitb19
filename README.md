@@ -73,7 +73,7 @@
 
 <div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=monojitbgit&show_icons=true&hide_border=true&count_private=true&title_color=FF4D8B&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api?username=monojitb19&show_icons=true&hide_border=true&count_private=true&title_color=FF4D8B&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117"
     alt="GitHub Stats"
     height="200"
     style="flex: 1; min-width: 320px;"
@@ -82,7 +82,7 @@
 
 <div align="right">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=monojitbgit&layout=compact&hide_border=true&card_width=340&langs_count=6&title_color=FF4D8B&text_color=FFFFFF&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=monojitb19&layout=compact&hide_border=true&card_width=340&langs_count=6&title_color=FF4D8B&text_color=FFFFFF&bg_color=0D1117"
     alt="Top Languages"
     height="200"
     style="flex: 1; min-width: 320px;"
@@ -91,7 +91,7 @@
 
 <div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=monojitbgit&show_icons=true&hide_border=true&count_private=true&title_color=FF4D8B&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=monojitb19&show_icons=true&hide_border=true&count_private=true&title_color=FF4D8B&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&include_all_commits=true"
     alt="GitHub Streak"
     height="200"
     style="flex: 1; min-width: 320px;"
@@ -100,15 +100,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monojitbgit/monojitbgit/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monojitbgit/monojitbgit/output/snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/monojitbgit/monojitbgit/output/snake-dark.svg" width="820" height="173" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monojitb19/monojitb19/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monojitb19/monojitb19/output/snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/monojitb19/monojitb19/output/snake-dark.svg" width="820" height="173" />
   </picture>
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=monojitbgit&bg_color=0D1117&color=FFFFFF&line=FF4D8B&point=00FFFF&area_color=FF4D8B33&hide_border=true&area=true&hide_title=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=monojitb19&bg_color=0D1117&color=FFFFFF&line=FF4D8B&point=00FFFF&area_color=FF4D8B33&hide_border=true&area=true&hide_title=false"
     alt="Activity Graph"
     width="1000"
   />
@@ -126,7 +126,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=monojitbgit&theme=tokyonight&margin-w=20&margin-h=20&row=1&column=6" 
+    src="https://github-profile-trophy.vercel.app/?username=monojitb19&theme=tokyonight&margin-w=20&margin-h=20&row=1&column=6" 
     alt="GitHub Trophies" 
     width="1000"
   />
