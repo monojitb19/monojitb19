@@ -89,10 +89,10 @@
   />
 </div>
 
-<div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=monojitb19&show_icons=true&hide_border=true&count_private=true&title_color=FF4D8B&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&include_all_commits=true"
-    alt="GitHub Streak"
+<div align="left"><p align="center">
+    <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=monojitb19&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FB5A9A&fire=FB5A9A&currStreakLabel=FB5A9A&sideLabels=FB5A9A&dates=8B949E" 
+    alt="GitHub Streak" 
     height="200"
     style="flex: 1; min-width: 320px;"
   />
