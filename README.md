@@ -64,7 +64,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" title="Bash"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim" title="Neovim"/>
-
+<img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="48" height="48" alt="DBeaver" title="DBeaver"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="48" height="48" alt="Sublime-Text" title="Sublime-Text"/>
 </div>
 
 ---
