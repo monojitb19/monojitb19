@@ -11,7 +11,7 @@
 
 ---
 
-### 🧩 What I Do
+### What I Do
 
 - I specialize in **data analysis, visualization, and business intelligence**, transforming raw data into actionable insights.
 - Experienced in building **data-driven dashboards and automated reports** that support informed decision-making.
@@ -21,7 +21,7 @@
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
 <br>
 <div align="left">
@@ -70,7 +70,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="left">
   <img
@@ -123,7 +123,7 @@
 </p>
 
 <!--
-### 🏆 GitHub Achievements
+### GitHub Achievements
 
 <p align="center">
   <img 
