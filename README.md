@@ -151,7 +151,12 @@
 <!--       PROJECTS SECTION    -->
 <!-- ========================= -->
 
-<h1><i>Projects</i></h1>
+<h1><i>Portfolio</i></h1>
+<p>
+<i>Projects demonstrating expertise in Power BI, Python, and SQL via interactive dashboards, detailed reports, and data-driven solutions that generate meaningful business insights.</i>
+</p>
+<br>
+
 <!-- ========================= -->
 <!--    CATEGORY: POWER BI     -->
 <!-- ========================= -->
@@ -180,7 +185,8 @@ An analysis of 4,000+ IMDb movies uncovering patterns in revenue, ratings, genre
 <p>
 A deep dive into Superstore’s sales and profitability, examining how regions, customer segments, and product categories contribute to overall performance. The analysis surfaces high-value customers, top-selling items, margin-driving categories, and areas where discounts reduce profits. It also highlights year-over-year growth trends, regional strengths, and patterns that influence operational efficiency and revenue outcomes.
 </p>
-<br><br>
+<br>
+
 
 <!-- ========================= -->
 <!--     CATEGORY: PYTHON      -->
@@ -209,7 +215,7 @@ An exploratory analysis of book publishing data uncovering how pricing, ratings,
 <p>
 An exploration of IMDb movie data uncovering how budgets, ratings, genres, popularity metrics, and geographic factors shape overall movie performance. The analysis highlights revenue patterns, genre trends, audience engagement signals, and the influence of countries and directors, revealing the key elements that contribute to both commercial success and viewer reception.
 </p>
-<br><br>
+<br>
 
 
 <!-- ========================= -->
@@ -227,9 +233,11 @@ An exploration of IMDb movie data uncovering how budgets, ratings, genres, popul
 <p>
 A combined SQL and Python analysis of the Bank Marketing dataset, performed in PostgreSQL through DBeaver with additional validation in Python. The study examines how demographics, occupations, education levels, contact methods, and campaign behaviors influence term-deposit subscriptions. The insights reveal clear conversion patterns across customer groups and highlight the factors most strongly associated with successful marketing outcomes.
 </p>
-<br><br>
+<br>
 
-
+<!-- ======================================================== -->
+<!--                       FOOTER                             -->
+<!-- ======================================================== -->
 <div align="center" style="margin-top: 40px;">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,FF4D8B&height=170&section=footer"
