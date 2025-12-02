@@ -1,0 +1,38 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Updates twice a day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: "" # leave empty if not using wakatime
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          LOCALE: "en"
+          SHOW_LANGUAGE: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_SHORT_INFO: "True"
+
+      - name: Commit SVGs
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update GitHub Stats"
+          commit_user_name: github-actions
+          commit_user_email: github-actions@github.com
+          commit_author: github-actions <github-actions@github.com>
