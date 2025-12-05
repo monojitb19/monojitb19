@@ -57,10 +57,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" alt="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" alt="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="48" alt="RStudio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" alt="Apache Spark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="48" alt="Spyder IDE"/>
+
   <br>
   <!-- Row 2 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" alt="Google Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" alt="AWS"/>
@@ -72,14 +74,12 @@
   <br>
   <!-- Row 3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="48" alt="Atom"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" alt="Anaconda"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="48" alt="Arch Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" alt="Vercel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" alt="Neovim"/>
   <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="48" alt="DBeaver"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="48" alt="Sublime Text"/>
@@ -163,25 +163,25 @@
 <h2>Power BI</h2>
 <br>
 
-<a href="https://github.com/monojitb19/Portfolio/tree/main/Power%20BI/IMDB-Movie-Data-Analysis" target="_blank">
+<a href="https://github.com/monojitb19/Portfolio/tree/main/Power-BI/IMDB-Movie-Data-Analysis" target="_blank">
   <img align="left" width="260" height="160" 
-       src="https://github.com/monojitb19/Portfolio/blob/main/Power%20BI/IMDB-Movie-Data-Analysis/cover.jpg" 
+       src="https://github.com/monojitb19/Portfolio/blob/main/Power-BI/IMDB-Movie-Data-Analysis/cover.jpg" 
        alt="Project Preview">
 </a>
 
-**[IMDb Movie Data Analysis](https://github.com/monojitb19/Portfolio/tree/main/Power%20BI/IMDB-Movie-Data-Analysis)**  
+**[IMDb Movie Data Analysis](https://github.com/monojitb19/Portfolio/tree/main/Power-BI/IMDB-Movie-Data-Analysis)**  
 <p>
 An analysis of 4,000+ IMDb movies uncovering patterns in revenue, ratings, genre performance, and contributor impact. It highlights trends in budgets, gross earnings, IMDb scores, and profitability across decades, revealing key factors behind movie success and how industry dynamics have evolved over time.
 </p>
 <br><br>
 
-<a href="https://github.com/monojitb19/Portfolio/tree/main/Power%20BI/SuperStore-Sales-Data-Analysis" target="_blank">
+<a href="https://github.com/monojitb19/Portfolio/tree/main/Power-BI/SuperStore-Sales-Data-Analysis" target="_blank">
   <img align="left" width="260" height="160" 
-       src="https://github.com/monojitb19/Portfolio/blob/main/Power%20BI/SuperStore-Sales-Data-Analysis/cover.jpg" 
+       src="https://github.com/monojitb19/Portfolio/blob/main/Power-BI/SuperStore-Sales-Data-Analysis/cover.jpg" 
        alt="Project Preview">
 </a>
 
-**[Superstore Sales Data Analysis](https://github.com/monojitb19/Portfolio/tree/main/Power%20BI/SuperStore-Sales-Data-Analysis)**  
+**[Superstore Sales Data Analysis](https://github.com/monojitb19/Portfolio/tree/main/Power-BI/SuperStore-Sales-Data-Analysis)**  
 <p>
 A deep dive into Superstore’s sales and profitability, examining how regions, customer segments, and product categories contribute to overall performance. The analysis surfaces high-value customers, top-selling items, margin-driving categories, and areas where discounts reduce profits. It also highlights year-over-year growth trends, regional strengths, and patterns that influence operational efficiency and revenue outcomes.
 </p>
